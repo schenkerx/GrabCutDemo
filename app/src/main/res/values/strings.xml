@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GraphCutDemo</string>
+
+    <string name="menu_open">Open Image</string>
+    <string name="menu_select">Select target</string>
+    <string name="menu_cut">Process Image</string>
+</resources>
